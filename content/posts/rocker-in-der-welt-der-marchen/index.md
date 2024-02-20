@@ -39,7 +39,3 @@ Jeden Donnerstagmorgen machen sich die professionellen Märchenerzählerinnen au
 ,,Ein Kind war einmal so fasziniert von einem Märchen, dass es am Schluss auf dem Schoss der Erzählerin gelandet ist, um beinahe in die Geschichte hinein zu klettern. Ein andermal hat ein Flüchtlingskind, nachdem die Erzählerin bei ihm war, selber eine Geschichte geschrieben und diese uns dann geschenkt. Da merkt man, wie auch ein ruhiges und Angebot wie dieses Spuren und Eindrücke bei den Kindern hinterlassen kann!’’, sagt Stefan Beutter dazu. 
 
 Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er sich dem Hotdogstand zuwendet und sich wieder auf seine Arbeit konzentriert. In diesem Tipi Zelt sitzen etwa fünf Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig dem feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien.
-
-**![Ein Bild, das Im Haus, Kleidung, Zimmer, Person enthält.
-
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/nRNgJiwGBFS0CXV7Ejzwv_k90YfERISmUG71Q7zJXRPgsuUozJCc3NFtIjGUCje8wdKVIYl9SwqEuvcBcy8o_5rMkpg3BnN8nVng8vlH2HEUKvXgEY9ekc66La85t_gVbXqLvQ1sotGBuwmulKwysA)**

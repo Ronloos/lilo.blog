@@ -8,7 +8,7 @@ description = ""
 +++
 {{<lead>}}Motorenlärm und Nikoläuse, die zwei Dinge helfen, kranken und verletzten Kindern aus dem Alltag zu entfliehen. Ein aufregendes und faszinierendes Spektakel, das einen höheren Nutzen bringt als nur eine lustige Zusammenkunft von Menschen und Nikoläusen. Dieses Event bringt Kinderherzen zum Strahlen und vertreibt alle trüben Gedanken aus deren Köpfen.{{</lead>}}
 
-![Märlierzählerin im Inselspital (Bild: von Stefan Beuter)](bildschirmfoto-2024-02-20-um-14.25.15-3.jpg)
+![Märlierzählerin im Inselspital (Bild: von Stefan Beuter Chindernetz Kanton Bern)](bildschirmfoto-2024-02-20-um-16.13.12.jpg)
 
 Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf und dies mitten im Trubel des Weihnachtsmarktes. Es ist klar, dass ein Spektakel wie dieses in Thun jedes Jahr viele Schaulustige anzieht, denn die Motorräder sind weihnachtlich geschmückt und die dazugehörigen Fahrer:innen als Nikoläuse verkleidet. Mittendrin direkt im ganzen Geschehen steht ein Tipi Zelt, in dem Kinder ganz gespannt einer Frau zuhören, die von sprechenden Tieren, geheimnisvollen Wäldern und vielen anderen mystischen Wesen erzählt. Diese zwei Welten, die unterschiedlicher nicht sein könnten, hängen auf emotionale und wundersame Weise zusammen. Taucht man genauer in das Geschehen auf diesem Weihnachtsmarkt ein, wird einem auch klar wie.
 
@@ -20,13 +20,11 @@ Spaziergänger, die über den grossen Weihnachtsmarkt schlendern. Das Ganze wird
 
 Um 14:30 wird es in Bälliz laut. Nacheinander werden die Motoren der Bikes gestartet und treiben die Menschenmasse auseinander. Alle schauen gespannt zu, wie sich die Rocker auf ihre Motorräder setzen und sich daran machen ihre Maschinen zu starten. Dann, plötzlich, setzt sich das erste mit einem Tannenbaum geschmückte Motorrad knatternd in Bewegung und bahnt sich einen Weg durch die Besucher:innen des Weihnachtsmarktes. Immer wieder muss eine mit Leuchtweste ausgestattet Person dafür sorgen, dass sich die Glühwein trinkenden Menschen von der Strasse wegbewegen und nicht noch einen Unfall verursachen. Knapp hinter dem ersten Motorrad folgt schon das nächste, auf dem ein alter, freudig dreinblickender Rocker sitzt. Dazu wird über einen Lautsprecher laut "Jingle Bells Rock" gespielt, was die weihnachtliche Stimmung auf dem Markt nur noch verstärkt.  Nachdem die rund 50 geschmückten Motorräder mit ihren verkleideten Fahrer:innen langsam vorbei gerollt sind, folgt ein weisser Lieferwagen mit offener Ladefläche. Auf dieser Ladefläche befinden sich zwei als Wichtel verkleidete Menschen, die mit Fischernetzen Spenden aus der Besuchermenge entgegennehmen. Oben auf der Kabine des Wagens befindet sich ein Schild, das den Grund für diesen Aufzug verrät. Das Ganze ist nämlich eine Spendenaktion des «Chindernetzes Bern». Das Chindernetz war ursprünglich bei der Stiftung Pro Juventute mit dabei. Jedoch hat diese dann beschlossen, die kantonalen Pro Juventute-Organisationen nur noch in 5 Regionen zusammenzufassen. Somit musste sich das «Chindernetz» 2018 neu bilden und gründete ein Jahr später den Verein “Chindernetz Kanton Bern”
 
-
-
-![](bildschirmfoto-2024-02-20-um-16.08.18.jpg)
-
 Das «Chindernetz» finanziert mit dieser weihnachtlichen Aktion eines ihrer Projekte, nämlich das «Märli Erzählen» im Inselspital. Bei diesem Event werden kranken und verletzten Kindern Märchen erzählt und damit alle Gedanken an das Spitalbett aus ihren Köpfen vertrieben. Neben dieser Aktion veranstaltet das “Chindernetz” noch viele weitere Projekte und Spendenaktionen, wo nicht nur Erwachsene der Organisation helfen wollen:
 
 ,,Wenn sich Kinder und Jugendliche engagieren, um für uns Geld zu sammeln und so anderen zu helfen, ist das etwas, was mich am meisten rührt!’’, meint Stefan Beutter mit einem Lächeln auf dem Gesicht. Stefan Beutter (47) ist zusammen mit Eva Maria Jutzi (56) für das Administrative des “Chindernetztes” verantwortlich. Sie beide sind mit einer grossen Leidenschaft mit dabei und erfreuen sich tagtäglich an ihrer Arbeit.
+
+![Ein Tannenbaum als Gepäck (Bild: Milo Abplanalp)](bildschirmfoto-2024-02-20-um-16.13.12.jpg)
 
 **"Märli-Erzählen"**
 

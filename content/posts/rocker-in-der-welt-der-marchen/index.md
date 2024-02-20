@@ -1,5 +1,5 @@
 +++
-title = "Rocker in der Welt der Märchen"
+title = "Motorenlärm in Kinderherzen"
 date = "2024-02-20"
 draft = false
 pinned = false

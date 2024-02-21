@@ -7,16 +7,14 @@ image = "jpg.jpg"
 +++
 # «Chindernetz Bern» Interview
 
-{{<Lead>}}Lead: Hier schreiben Sie das Lead{{<Lead>}}
+{{<Lead>}}Lead: Hier schreiben Sie das Lead{{</Lead>}}
 
-Milo Abplanalp und Arwen Loosli![Ein Bild, das Im Haus, Wand, Mobiliar, Bürogebäude enthält.
+Milo Abplanalp und Arwen Loosli
 
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/fhZlhbjVnGInp0x-fyuESjNX73-Pp53OVNUQuVT2lNzSSjUPjiUMDcjuX0wUC8X4Z2IWUUD-cZ1ekVwYrrgJuI34QTbVGq7JaVgCcUJAMHBUswXzJSJL9OirC2byNwcSURje1X1F1VGqa9ezE-AVHg)
+![](bildschirmfoto-2024-02-21-um-13.52.25.jpg)
 
 \
 Zwei Bürotische in der Mitte des kleinen Raumes. Zwei lächelnde Personen, die ihre Arbeit dort erledigen. Eine kleine Unordnung und ein Banner mit den 17 Sustainable Development Goals sind die ersten Dinge, die einem sofort ins Auge stechen. Neben dem Hauptbüro befindet sich ein Nebenraum, der einem kleinen Wintergarten gleicht. Dort beginnen Stefan Beuter und Eva Maria Jutzi über ihre Arbeit zu erzählen.
-
-
 
 **Wie läuft das "Märli Erzählen" ab?**
 
@@ -25,8 +23,6 @@ Bei uns gehen die Märchenerzählerinnen jeden Donnerstag ins Inselspital zu den
 Eine Märchenerzählerin hat einmal erzählt, dass es ein Kind gab, das immer näher zu ihr gerutscht kam, bis es am Schluss auf ihrem Schoß gelandet ist. So entstehen sehr bewegende Geschichten, die Freude auf beiden Seiten auslösen.
 
 Da merkt man, es ist zwar ein ruhiges Angebot, das es aber trotzdem Spuren und Eindrücke bei den Kindern hinterlässt. 
-
-
 
 **Machen eure Märlierzähler:innen eine spezielle Ausbildung?**
 
@@ -49,8 +45,6 @@ Jede Aktion geht einem ans Herz! Wenn sich Kinder und Jugendliche engagieren, um
 **Was ist die Traumvorstellung fürs “Chindernetz”?**
 
 Mein Herzenswunsch ist es, dass ich hier mit dem Mikrophon auf einer Zug-Plattform stehen und fragen kann: Sagt euch der Name “Chindernetz” Kanton Bern etwas? und alle sagen: Ja klar, das ist die größte Kinder- und Jugendförderung Plattform des Kanton Berns! 
-
-
 
 |     |
 | --- |

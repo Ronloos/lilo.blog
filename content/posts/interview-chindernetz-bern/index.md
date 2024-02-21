@@ -11,7 +11,7 @@ image = "jpg.jpg"
 
 Milo Abplanalp und Arwen Loosli
 
-![](bildschirmfoto-2024-02-21-um-13.52.25.jpg)
+![der Mittelpunkt vom Chindernetz Bern](bildschirmfoto-2024-02-21-um-13.52.25.jpg)
 
 \
 Zwei Bürotische in der Mitte des kleinen Raumes. Zwei lächelnde Personen, die ihre Arbeit dort erledigen. Eine kleine Unordnung und ein Banner mit den 17 Sustainable Development Goals sind die ersten Dinge, die einem sofort ins Auge stechen. Neben dem Hauptbüro befindet sich ein Nebenraum, der einem kleinen Wintergarten gleicht. Dort beginnen Stefan Beuter und Eva Maria Jutzi über ihre Arbeit zu erzählen.

@@ -7,7 +7,7 @@ image = "jpg.jpg"
 +++
 # «Chindernetz Bern» Interview
 
-{{<Lead>}}Lead: Hier schreiben Sie das Lead{{</Lead>}}
+{{<Lead>}}Der Name ist noch nicht so bekannt, doch das verunsichert die Administratoren dieser Organisation keineswegs. Sie sind für alles zu haben. Eine Idee kommt auf und sie setzen sie um. Sie helfen Kindern und Jugendlichen und bieten eine grosse Anzahl an Angeboten an.{{</Lead>}}
 
 Milo Abplanalp und Arwen Loosli
 
@@ -44,8 +44,26 @@ Jede Aktion geht einem ans Herz! Wenn sich Kinder und Jugendliche engagieren, um
 
 **Was ist die Traumvorstellung fürs “Chindernetz”?**
 
-Mein Herzenswunsch ist es, dass ich hier mit dem Mikrophon auf einer Zug-Plattform stehen und fragen kann: Sagt euch der Name “Chindernetz” Kanton Bern etwas? und alle sagen: Ja klar, das ist die größte Kinder- und Jugendförderung Plattform des Kanton Berns! 
+Mein Herzenswunsch ist es, dass ich hier mit dem Mikrophon auf einer Zug-Plattform stehen und fragen kann: Sagt euch der Name “Chindernetz” Kanton Bern etwas? und alle sagen: Ja klar, das ist die größte Kinder- und Jugendförderung Plattform des Kanton Berns!
 
-|     |
-| --- |
-|     |
+
+
+{{<box>}}Infokasten
+
+Stefan Beuter (Geschäftsleitung Kindernetz):
+
+Alter: 47
+
+Wohnort: Thun Blumenstein
+
+Angestellt seit: 2017
+
+
+
+Eva Maria Jutzi (Divers, Finanzen, Administration)
+
+Alter: 56
+
+Wohnort:  Bowil emmental
+
+Angestellt seit: 2010{{</box>}}

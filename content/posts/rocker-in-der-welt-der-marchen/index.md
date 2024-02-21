@@ -14,6 +14,8 @@ Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf u
 
 **Chlouse ride**
 
+![Ein Tannenbaum als Gepäck (Bild: Milo Abplanalp)](bildschirmfoto-2024-02-20-um-16.13.12.jpg)
+
 In Bälliz dringt Motorenlärm über den Platz und wohin man auch blickt, jedes einzelne dieser unzähligen Motorräder ist individuell geschmückt. Manche haben einen ganzen Tannenbaum hinten auf der Ladefläche, während andere mit Lametta bedeckt sind. Auch ein Junge mit seinem Tretroller und einem Anhänger voller Geschenke findet seinen Platz zwischen den grossen Maschinen. Zwischen den Motorrädern stehen die als Nikoläuse verkleideten Rocker:innen, die sich lächelnd mit Passanten unterhalten. Rundherum drängen sich
 
 Spaziergänger, die über den grossen Weihnachtsmarkt schlendern. Das Ganze wird von lauter Weihnachtsmusik untermalt. Einige gehen langsam durch die Stände hindurch und schauen sich genau an, was hier passiert, während andere im Weihnachtsstress schnell vorbeigehen, mit Blicken auf den Gesichtern, die fragen, was der ganze Trubel hier eigentlich zu bedeuten hat.
@@ -25,8 +27,6 @@ Das «Chindernetz» finanziert mit dieser weihnachtlichen Aktion eines ihrer Pro
 > ,,Wenn sich Kinder und Jugendliche engagieren, um für uns Geld zu sammeln und so anderen zu helfen, ist das etwas, was mich am meisten rührt!’’, meint Stefan Beutter mit einem Lächeln auf dem Gesicht. 
 
 Stefan Beutter (47) ist zusammen mit Eva Maria Jutzi (56) für das Administrative des “Chindernetztes” verantwortlich. Sie beide sind mit einer grossen Leidenschaft mit dabei und erfreuen sich tagtäglich an ihrer Arbeit.
-
-![Ein Tannenbaum als Gepäck (Bild: Milo Abplanalp)](bildschirmfoto-2024-02-20-um-16.13.12.jpg)
 
 **"Märli-Erzählen"**
 

@@ -22,7 +22,9 @@ Um 14:30 wird es in Bälliz laut. Nacheinander werden die Motoren der Bikes gest
 
 Das «Chindernetz» finanziert mit dieser weihnachtlichen Aktion eines ihrer Projekte, nämlich das «Märli Erzählen» im Inselspital. Bei diesem Event werden kranken und verletzten Kindern Märchen erzählt und damit alle Gedanken an das Spitalbett aus ihren Köpfen vertrieben. Neben dieser Aktion veranstaltet das “Chindernetz” noch viele weitere Projekte und Spendenaktionen, wo nicht nur Erwachsene der Organisation helfen wollen:
 
-,,Wenn sich Kinder und Jugendliche engagieren, um für uns Geld zu sammeln und so anderen zu helfen, ist das etwas, was mich am meisten rührt!’’, meint Stefan Beutter mit einem Lächeln auf dem Gesicht. Stefan Beutter (47) ist zusammen mit Eva Maria Jutzi (56) für das Administrative des “Chindernetztes” verantwortlich. Sie beide sind mit einer grossen Leidenschaft mit dabei und erfreuen sich tagtäglich an ihrer Arbeit.
+> ,,Wenn sich Kinder und Jugendliche engagieren, um für uns Geld zu sammeln und so anderen zu helfen, ist das etwas, was mich am meisten rührt!’’, meint Stefan Beutter mit einem Lächeln auf dem Gesicht. 
+
+Stefan Beutter (47) ist zusammen mit Eva Maria Jutzi (56) für das Administrative des “Chindernetztes” verantwortlich. Sie beide sind mit einer grossen Leidenschaft mit dabei und erfreuen sich tagtäglich an ihrer Arbeit.
 
 ![Ein Tannenbaum als Gepäck (Bild: Milo Abplanalp)](bildschirmfoto-2024-02-20-um-16.13.12.jpg)
 
@@ -36,6 +38,8 @@ Stefan Beutter macht eine kurze Pause und nimmt die Bestellung eines alten Manne
 
 Jeden Donnerstagmorgen machen sich die professionellen Märchenerzählerinnen auf den Weg ins Inselspital in die Kinderklinik. Dort werden sie vom Pflegepersonal instruiert, welchen Kindern sie kurz einen Besuch abstatten können und was ihre Bedürfnisse sind. Kurz darauf befinden sich die Märchenerzählerinnen schon in unterschiedlichen Zimmern und beginnen eines der vielen Märchen, die sie auswendig können, zu erzählen. Meist ist das eine Sache von 2-3 Minuten doch, in diesen sehr intimen und persönlichen Momenten passieren Dinge, die einem besonders ans Herz gehen.  
 
-,,Ein Kind war einmal so fasziniert von einem Märchen, dass es am Schluss auf dem Schoss der Erzählerin gelandet ist, um beinahe in die Geschichte hinein zu klettern. Ein andermal hat ein Flüchtlingskind, nachdem die Erzählerin bei ihm war, selber eine Geschichte geschrieben und diese uns dann geschenkt. Da merkt man, wie auch ein ruhiges und Angebot wie dieses Spuren und Eindrücke bei den Kindern hinterlassen kann!’’, sagt Stefan Beutter dazu. Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er sich dem Hotdogstand zuwendet und sich wieder auf seine Arbeit konzentriert. 
+> ,,Ein Kind war einmal so fasziniert von einem Märchen, dass es am Schluss auf dem Schoss der Erzählerin gelandet ist, um beinahe in die Geschichte hinein zu klettern. Ein andermal hat ein Flüchtlingskind, nachdem die Erzählerin bei ihm war, selber eine Geschichte geschrieben und diese uns dann geschenkt. Da merkt man, wie auch ein ruhiges und Angebot wie dieses Spuren und Eindrücke bei den Kindern hinterlassen kann!’’, sagt Stefan Beutter dazu. 
+
+Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er sich dem Hotdogstand zuwendet und sich wieder auf seine Arbeit konzentriert. 
 
 In diesem Tipi Zelt sitzen etwa fünf Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig dem feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien.

@@ -3,7 +3,7 @@ title = "\"Chindernetz Bern\" Interview"
 date = "2024-02-25"
 draft = false
 pinned = false
-image = "unknown.jpeg"
+image = "unknown-1.jpeg"
 +++
 # «Chindernetz Bern» Interview
 
@@ -11,7 +11,7 @@ image = "unknown.jpeg"
 
 Milo Abplanalp und Arwen Loosli
 
-![der Mittelpunkt vom Chindernetz Bern]()
+![der Mittelpunkt vom Chindernetz Bern](unknown.jpeg)
 
 \
 Zwei Bürotische in der Mitte des kleinen Raumes. Zwei lächelnde Personen, die ihre Arbeit dort erledigen. Eine kleine Unordnung und ein Banner mit den 17 Sustainable Development Goals sind die ersten Dinge, die einem sofort ins Auge stechen. Neben dem Hauptbüro befindet sich ein Nebenraum, der einem kleinen Wintergarten gleicht. Dort beginnen Stefan Beuter und Eva Maria Jutzi über ihre Arbeit zu erzählen.

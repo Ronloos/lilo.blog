@@ -3,6 +3,7 @@ title = "\"Chindernetz Bern\" Interview"
 date = "2024-02-25"
 draft = false
 pinned = false
+image = "unknown.jpeg"
 +++
 # «Chindernetz Bern» Interview
 

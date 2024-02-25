@@ -1,7 +1,7 @@
 +++
 title = "\"Chindernetz Bern\" Interview"
 date = "2024-02-25"
-draft = true
+draft = false
 pinned = false
 image = "jpg.jpg"
 +++

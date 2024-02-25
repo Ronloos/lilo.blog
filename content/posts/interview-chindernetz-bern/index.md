@@ -18,7 +18,7 @@ Zwei Bürotische in der Mitte des kleinen Raumes. Zwei lächelnde Personen, die 
 
 **Wie läuft das "Märli Erzählen" ab?**
 
-Bei uns gehen die Märchenerzählerinnen jeden Donnerstag ins Inselspital zu den Kindern. Am Eingang werden sie informiert, wie es bei den einzelnen Patienten gerade so steht und können dann entsprechend das beste Märchen aus ihrem Kopf heraussuchen. Das ist keine lange Zeit, wisst ihr, das ist eine Sache von 3-5 Minuten, ein paar Minuten, die es den Kindern und auch Eltern erlaubt, aus dem Spital zu fliehen und in die Märchenwelt einzutauchen. 
+Bei uns gehen die Märchenerzählerinnen jeden Donnerstag ins Inselspital zu den Kindern. Am Eingang werden sie informiert, wie es bei den einzelnen Patienten gerade so steht und können dann entsprechend das beste Märchen aus ihrem Kopf heraussuchen. Das ist keine lange Zeit, wisst ihr, das ist eine Sache von 3-5 Minuten, ein paar Minuten, die es den Kindern und auch Eltern erlaubt, aus dem Spital zu fliehen und in die Märchenwelt einzutauchen.
 
 Eine Märchenerzählerin hat einmal erzählt, dass es ein Kind gab, das immer näher zu ihr gerutscht kam, bis es am Schluss auf ihrem Schoß gelandet ist. So entstehen sehr bewegende Geschichten, die Freude auf beiden Seiten auslösen.
 
@@ -46,8 +46,6 @@ Jede Aktion geht einem ans Herz! Wenn sich Kinder und Jugendliche engagieren, um
 
 Mein Herzenswunsch ist es, dass ich hier mit dem Mikrophon auf einer Zug-Plattform stehen und fragen kann: Sagt euch der Name “Chindernetz” Kanton Bern etwas? und alle sagen: Ja klar, das ist die größte Kinder- und Jugendförderung Plattform des Kanton Berns!
 
-
-
 {{<box>}}Infokasten
 
 Stefan Beuter (Geschäftsleitung Kindernetz):
@@ -57,8 +55,6 @@ Alter: 47
 Wohnort: Thun Blumenstein
 
 Angestellt seit: 2017
-
-
 
 Eva Maria Jutzi (Divers, Finanzen, Administration)
 

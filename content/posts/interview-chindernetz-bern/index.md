@@ -60,6 +60,6 @@ Eva Maria Jutzi (Divers, Finanzen, Administration)
 
 Alter: 56
 
-Wohnort:  Bowil emmental
+Wohnort:  Bowil Emmental
 
 Angestellt seit: 2010{{</box>}}

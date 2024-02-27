@@ -1,5 +1,5 @@
 +++
-title = "Eine kleine Organisation mit grossen Träumen"
+title = "Eine kleine Organisation mit grossen Träumen (Interview \"Chindernetz Bern\")"
 date = "2024-02-27"
 draft = false
 pinned = false

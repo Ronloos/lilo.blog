@@ -2,7 +2,7 @@
 title = "Motorenlärm in Kinderherzen"
 date = "2024-02-27"
 draft = false
-pinned = false
+pinned = true
 image = "bildschirmfoto-2024-02-20-um-14.25.15-3.jpg"
 description = ""
 +++
